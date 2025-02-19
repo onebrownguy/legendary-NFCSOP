@@ -1,6 +1,6 @@
 # legendary-NFCSOP
 
-### **Standard Operating Procedure (SOP) for Reusing an NFC Tag**
+### **Instructions for Reusing an NFC Tag**
 #### **Purpose**
 This document provides step-by-step instructions on how to reuse an NFC tag by wiping the existing data and writing new data to it using the **NFC Tools** app.
 
